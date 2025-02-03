@@ -13,7 +13,7 @@
 x1=a+b
 
 #addition of three numbers
-x2=a+b+c
+#x2=a+b+c
 
 
 
@@ -21,5 +21,9 @@ x2=a+b+c
 
 # Difference of two numbers
 y1=a-b
+
+# Difference of three numbers
+y2=a-b-c
+
 
 
