@@ -1,4 +1,4 @@
-#!/bin/bash
+ii#!/bin/bash
 
 ###########
 # Author: Sagar
@@ -7,8 +7,9 @@
 ###########
 
 
-x=a+b
+x1=a+b
 
-y=a-b
+x2=a+b+c
+
 
 
