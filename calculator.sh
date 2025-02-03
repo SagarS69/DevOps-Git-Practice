@@ -12,7 +12,14 @@
 #Addition of two numbers
 x1=a+b
 
-#addition of three numbers
+#Addition of three numbers
 x2=a+b+c
+
+
+# Division functionality
+
+#Division of two numbers
+z1=a/b
+
 
 
