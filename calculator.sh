@@ -16,3 +16,10 @@ x1=a+b
 x2=a+b+c
 
 
+
+# Substraction functionality
+
+# Difference of two numbers
+y1=a-b
+
+
