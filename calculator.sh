@@ -15,4 +15,4 @@ x1=a+b
 #addition of three numbers
 x2=a+b+c
 
-
+# Adding Multiplication functionality
