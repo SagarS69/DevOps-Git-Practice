@@ -6,6 +6,10 @@
 # Title: This file contains the addition functionality code
 ###########
 
-x=a+b
+# Addition of two numbers
 
+x = a+b
+
+# Addition of three numbers
+x1 = a+b+c
 
